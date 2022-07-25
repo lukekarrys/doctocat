@@ -1,5 +1,12 @@
 # @primer/gatsby-theme-doctocat
 
+## 4.0.1
+
+### Patch Changes
+
+- [`1e22900`](https://github.com/primer/doctocat/commit/1e229008d374b8b56d19ce33f315256c4301efb4) [#434](https://github.com/primer/doctocat/pull/434) Thanks [@rezrah](https://github.com/rezrah)! - - Updated external links in frontmatter to open in new tab
+  - Added support for Figma links in frontmatter
+
 ## 4.0.0
 
 ### Major Changes
